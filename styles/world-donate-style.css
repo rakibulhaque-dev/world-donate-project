@@ -1,0 +1,71 @@
+.header{
+    color:black;
+    font-family: "Trirong", serif;
+    text-align: center;
+}
+.paragraph{
+    text-align :center;
+    margin: 30px;
+}
+
+.help> p{
+    padding: 70px 20px 50px;
+    background-color: ;
+}
+.submit-button{ display: flex;
+    justify-content: center;
+    text-decoration: none;
+   
+}
+.donate-button{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orangered;
+    border: 0px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    
+}
+.moneybtn{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    justify-content:center;
+        
+}
+.taka{
+    background-color: chartreuse;
+    border: 0px;
+    border-radius: 3px;
+    margin-left: 50px;
+    gap: 20px;
+}
+.taka{
+    background-color: orange;
+    border: 0px;
+    text-align: center;
+    font-size: 20px;
+    margin: 30px 30px;
+    cursor: pointer;
+}
+.group-container{
+    display: flex;
+    align-items: center;
+}
+.donate-plane{
+    text-align: center;
+}
+.donate-des{
+    text-align: center;
+    padding-top: 15px;
+}
+.buttondonate{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+.takabtn{
+    gap: 10px;
+}
